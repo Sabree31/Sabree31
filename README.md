@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Imtiaz Hossain Sabree**, a Game Developer with 5+ years of experience building interactive and immersive experiences.
+I'm **Imtiaz Hossain Sabree**, a Game Developer with 5 years of experience building interactive and immersive experiences.
 
 I enjoy creating systems that blend gameplay, learning, and real-world interaction.
 
@@ -45,11 +45,23 @@ Designed to make learning feel natural, playful, and distraction-free (no login 
 
 ## 🧠 Interests
 
-- Interactive learning systems  
-- Immersive environments  
-- AR / VR exploration  
-- Game-based education  
-- Experimental gameplay mechanics  
+I'm particularly interested in immersive technologies, gameplay systems, VR/AR experiences, real-time 3D applications, and simulation system.
+
+---
+
+## 🛠 Tech & Tools
+
+**Game Development**  
+Unreal Engine, Unity, Three.js, VR/AR
+
+**Programming**  
+C++, C#, JavaScript, Python
+
+**3D & Design**  
+Blender, Level Design, Environment Design
+
+**Additional**  
+OpenCV, Interactive Learning Systems
 
 ---
 
