@@ -1,16 +1,71 @@
 ## Hi there 👋
 
-<!--
-**Sabree31/Sabree31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Imtiaz Hossain Sabree**, a Game Developer with 5+ years of experience building interactive and immersive experiences.
 
-Here are some ideas to get you started:
+I enjoy creating systems that blend gameplay, learning, and real-world interaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Work
+
+**Lexi Explorer**  
+A free 3D language learning app built around immersive environments and mini-games.  
+Designed to make learning feel natural, playful, and distraction-free (no login required).
+
+👉 https://lexiexplorer.com
+
+---
+
+## 💼 Experience
+
+**Unreal Engine Gameplay Programmer** — StudioTeka Design (Present)  
+- Worked on VR game development  
+- Gameplay programming and system design  
+- Level and environment creation  
+- 3D asset workflows and integration  
+
+**Game Developer** — Opus Technology  
+- Gameplay programming for interactive systems  
+- Multiplayer logic and replication systems  
+- Level design in Unreal Engine  
+
+**Game Developer** — B.R.A.I.N Corporation  
+- Gameplay implementation using visual scripting  
+- 3D asset creation support  
+- Level design and prototyping  
+
+---
+
+## 🎓 Education
+
+**M.Sc (Engg) in ICT** — Comilla University (2022)  
+**B.Sc (Engg) in ICT** — Comilla University (2016–2019) | CGPA: 3.54  
+
+---
+
+## 🧠 Interests
+
+- Interactive learning systems  
+- Immersive environments  
+- AR / VR exploration  
+- Game-based education  
+- Experimental gameplay mechanics  
+
+---
+
+## 📚 Publications
+
+- Design and Implementation of an Unreal Engine 4-Based Smart Traffic Control System for Smart City Applications  
+- Unlocking the Potential of Soft Robotics with Blender and Unreal Engine: Adaptive Morph Design  
+
+---
+
+## 📫 Contact
+
+- 📍 Khulna, Bangladesh  
+- 📧 sabree2054@gmail.com  
+- 📞 +8801521333251  
+
+---
+
+Always building. Always learning.
