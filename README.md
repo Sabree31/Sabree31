@@ -67,7 +67,7 @@ OpenCV, Interactive Learning Systems
 
 ## 📚 Publications
 
-- Design and Implementation of an Unreal Engine 4-Based Smart Traffic Control System for Smart City Applications
+- Design and Implementation of an Unreal Engine 4-Based Smart Traffic Control System for Smart City Applications 
   DOI: https://doi.org/10.14569/IJACSA.2022.01312100
 - Unlocking the Potential of Soft Robotics with Blender and Unreal Engine: Adaptive Morph Design  
   DOI: https://doi.org/10.13189/csit.2023.110102
